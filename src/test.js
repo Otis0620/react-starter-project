@@ -1,3 +1,3 @@
-const name = () => console.log("name")
+const name = () => console.log('name');
 
 export default name;
